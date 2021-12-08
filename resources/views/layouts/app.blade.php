@@ -11,7 +11,7 @@
   <!-- Ionicons -->
   {{-- <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"> --}}
   <!-- Tempusdominus Bbootstrap 4 -->
-  <link rel="stylesheet" 
+  <link rel="stylesheet"
   href="{{asset('plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css')}}">
   <!-- iCheck -->
   <link rel="stylesheet" href="{{asset('plugins/icheck-bootstrap/icheck-bootstrap.min.css')}}">
@@ -89,7 +89,7 @@
               </p>
             </a>
           </li>
-    
+
           <li class="nav-item">
             <a href="{{route('record_airframe')}}" class="nav-link">
               <i class="nav-icon fas fa-plane"></i>
@@ -190,7 +190,7 @@
   </div>
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>Copyright &copy; 2018 - {{date('Y')}} <a href="">Aretz Farms</a>.</strong>
+    <strong>Copyright &copy; 2021 - {{date('Y')}} <a href="">A Coventry Uni Project</a>.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 3.0.4
